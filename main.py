@@ -2,6 +2,7 @@ import os
 import telebot
 import json
 import requests
+#keep_alive.py is a file made for hosting purposes in replit.
 from keep_alive import keep_alive
 
 API_KEY = os.getenv('API_KEY')
